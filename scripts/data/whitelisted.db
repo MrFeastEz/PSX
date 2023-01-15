@@ -1,1 +1,6 @@
-_G.hi = "sdasdas"
+return {
+    ["whitelist"] = {
+        ["user"] = "asiojdiw",
+        ["data"] = "wsauidja"
+    }
+}
