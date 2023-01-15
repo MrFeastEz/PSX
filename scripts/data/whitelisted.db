@@ -1,1 +1,1 @@
-local hi = "sdasdas"
+_G.hi = "sdasdas"
