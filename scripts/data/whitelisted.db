@@ -1,6 +1,0 @@
-return {
-    ["whitelist"] = {
-        ["user"] = "asiojdiw",
-        ["data"] = "wsauidja"
-    }
-}
